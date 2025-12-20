@@ -55,3 +55,6 @@ export const MAX_DATA_LENGTH: number = 12;
 // maxLines
 export const MAX_LINES_TEXT: number = 1;
 
+// 购物车相关常量
+export const CART_BADGE_MAX = 99;  // 角标最大显示数量
+export const CART_ANIMATION_DURATION = 300;  // 动画持续时间
