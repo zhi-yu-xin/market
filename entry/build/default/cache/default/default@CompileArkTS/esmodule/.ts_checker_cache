@@ -133,7 +133,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets": {
-      "mtimeMs": 1765852986348.2878,
+      "mtimeMs": 1766499030492.125,
       "children": [
         "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.app.ability.AbilityConstant.d.ts",
         "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.app.ability.UIAbility.d.ts",
@@ -624,7 +624,9 @@
       "parent": [
         "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.arkui.UIContext.d.ts",
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\MineComponent.ets",
-        "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\OrderPage.ets"
+        "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\OrderPage.ets",
+        "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\GoodsListComponent.ets",
+        "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\GoodsDetail.ets"
       ],
       "error": false
     },
@@ -1452,7 +1454,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\TabBarsComponent.ets": {
-      "mtimeMs": 1766111478072.3801,
+      "mtimeMs": 1766499030508.4956,
       "children": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\common\\CommonConstants.ets",
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\CartComponent.ets",
@@ -1466,7 +1468,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\common\\CommonConstants.ets": {
-      "mtimeMs": 1765852986316.632,
+      "mtimeMs": 1766499030492.125,
       "children": [],
       "parent": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\ListIndex.ets",
@@ -1478,7 +1480,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\ListIndex.ets": {
-      "mtimeMs": 1765852986380.2488,
+      "mtimeMs": 1766499030505.1785,
       "children": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\TabBarsComponent.ets",
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\common\\CommonConstants.ets"
@@ -1487,7 +1489,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\CartComponent.ets": {
-      "mtimeMs": 1766111390919.262,
+      "mtimeMs": 1766499030508.4956,
       "children": [],
       "parent": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\TabBarsComponent.ets"
@@ -1495,7 +1497,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\CategoryComponent.ets": {
-      "mtimeMs": 1766111406642.7976,
+      "mtimeMs": 1766499030508.4956,
       "children": [],
       "parent": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\TabBarsComponent.ets"
@@ -1503,7 +1505,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\HomeComponent.ets": {
-      "mtimeMs": 1766111437776.787,
+      "mtimeMs": 1766501492287.8706,
       "children": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\GoodsListComponent.ets"
       ],
@@ -1513,7 +1515,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\MineComponent.ets": {
-      "mtimeMs": 1766138677263.291,
+      "mtimeMs": 1766499030508.4956,
       "children": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\common\\CommonConstants.ets",
         "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.router.d.ts"
@@ -1527,25 +1529,32 @@
       ]
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\GoodsListComponent.ets": {
-      "mtimeMs": 1766111421431.8323,
+      "mtimeMs": 1766500494695.6665,
       "children": [
-        "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\common\\CommonConstants.ets",
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\viewmodel\\InitialData.ets",
-        "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\viewmodel\\ListDataSource.ets"
+        "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.router.d.ts"
       ],
       "parent": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\HomeComponent.ets"
       ],
-      "error": false
+      "error": true,
+      "errorCodes": [
+        28007
+      ]
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\viewmodel\\InitialData.ets": {
-      "mtimeMs": 1765893677442.2622,
+      "mtimeMs": 1766499030508.4956,
       "children": [],
       "parent": [
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\view\\GoodsListComponent.ets",
         "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\viewmodel\\ListDataSource.ets"
       ],
-      "error": false
+      "error": true,
+      "errorCodes": [
+        34,
+        8,
+        38
+      ]
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\viewmodel\\ListDataSource.ets": {
       "mtimeMs": 1765852986462.7395,
@@ -1559,7 +1568,7 @@
       "error": false
     },
     "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\OrderPage.ets": {
-      "mtimeMs": 1766135599252.4922,
+      "mtimeMs": 1766499030505.1785,
       "children": [
         "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.router.d.ts"
       ],
@@ -2016,6 +2025,18 @@
         "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.security.cert.d.ts"
       ],
       "error": false
+    },
+    "C:\\Users\\ASUS\\DevEcoStudioProjects\\List_commodity\\entry\\src\\main\\ets\\pages\\GoodsDetail.ets": {
+      "mtimeMs": 1766499030505.1785,
+      "children": [
+        "D:\\mobile internet\\DevEco Studio 6.0.0 Release\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.router.d.ts"
+      ],
+      "parent": [],
+      "error": true,
+      "errorCodes": [
+        8,
+        28007
+      ]
     }
   }
 }

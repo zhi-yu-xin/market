@@ -1,11 +1,11 @@
-import GoodsList from './GoodsListComponent';
+import { GoodsListComponent } from './GoodsListComponent'; // 必须使用花括号导入
 
 @Component
 export struct HomeComponent {
   build() {
     Column() {
-      // 1. 顶部轮播图 (Member A 负责的装修)
       Swiper() {
+        // 使用正确的资源引用方式
         Image($r('app.media.goodsImg')).width('100%').height(150)
         Image($r('app.media.goodsImg_2')).width('100%').height(150)
       }
@@ -15,8 +15,8 @@ export struct HomeComponent {
       .margin({bottom: 10, top: 10})
       .borderRadius(10)
 
-      // 2. 商品列表 ( Member B 负责的组件)
-      GoodsList()
+      // 使用正确的组件名称
+      GoodsListComponent()
     }
     .width('100%')
     .height('100%')
